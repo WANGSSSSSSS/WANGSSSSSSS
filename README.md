@@ -1,7 +1,7 @@
 ### Hi anonymous 👋
 
 * 🔭 I'm wangsssssss, an undergrade from nwpu
-* 🌱 I'm interested in Reinforcement Learning and Computer Vision
+* 🌱 I'm interested in FPGA technology, Reinforcement Learning and Computer Vision
 * 🌱 Maybe the future time is mainly spent on intellgence
 
 <!--
