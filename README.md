@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi anonymous 👋
 
 * 🔭 I'm wangsssssss, an undergrade from nwpu
-* I'm interseted in Reinforcement Learning and Computer Vision
+* 🌱 I'm interseted in Reinforcement Learning and Computer Vision
 * 🌱 Maybe the future time is mainly spent on intellgence
 
 <!--
