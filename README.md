@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+* 🔭 I'm wangsssssss, an undergrade from nwpu
+* I'm interseted in Reinforcement Learning and Computer Vision
+* 🌱 Maybe the future time is mainly spent on intellgence
+
 <!--
 **WANGSSSSSSS/WANGSSSSSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
