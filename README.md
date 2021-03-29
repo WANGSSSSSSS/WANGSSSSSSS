@@ -5,6 +5,8 @@
 * 🌱 Maybe i will spend my future time  on intellgence
 * 🤔 for recently, i schedule to learn fusion algorithm, mainly about KF,UKF,EKF,EKF2
 
+小伙，来[这](wangsssssss.github.io)给咱点个赞
+
 <!--
 **WANGSSSSSSS/WANGSSSSSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
