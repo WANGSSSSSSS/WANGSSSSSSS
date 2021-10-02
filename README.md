@@ -1,7 +1,7 @@
 ### Hi anonymous 👋
 
 * 🔭 I'm wangsssssss, an undergraduate from nwpu
-* 🌱 I will pusuing my Ph.d diploma of NJU in future
+* 🌱 I will pursuing my Ph.d diploma of NJU in future
 * 🌱 Maybe i will spend my future time  on intellgence
 * 🤔 My study interests including Video Analyze, Image Matching and some contents maybe...
 
