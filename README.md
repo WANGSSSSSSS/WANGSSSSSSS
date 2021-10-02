@@ -1,9 +1,9 @@
 ### Hi anonymous 👋
 
 * 🔭 I'm wangsssssss, an undergraduate from nwpu
-* 🌱 I'm interested in FPGA technology, Reinforcement Learning and Computer Vision
+* 🌱 I will pusuing my Ph.d diploma of NJU in future
 * 🌱 Maybe i will spend my future time  on intellgence
-* 🤔 for recently, i schedule to learn fusion algorithm, mainly about KF,UKF,EKF,EKF2
+* 🤔 My study interests including Video Analyze, Image Matching and some contents maybe...
 
 小伙，来[这](https://wangsssssss.github.io)给咱点个赞
 
