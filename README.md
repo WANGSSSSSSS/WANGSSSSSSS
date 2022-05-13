@@ -1,7 +1,7 @@
 ### Hi anonymous 👋
 
-* 🔭 I'm wangsssssss, an undergraduate from nwpu
-* 🌱 I will pursuing my Ph.d diploma of NJU in future
+* 🔭 I'm wangsssssss, an undergraduate from 抖一大
+* 🌱 I will pursuing my Ph.d diploma of 南哪 in future
 * 🌱 Recently, I am on the way of figuring out my main study interest!
 * 🤔 My study interests including 3D Scene Reconstruction, Image Matching and some contents maybe...
 
