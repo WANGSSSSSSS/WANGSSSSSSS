@@ -1,11 +1,6 @@
 ### Hi anonymous 👋
 
-* 🔭 I'm wangsssssss, an undergraduate from 抖一大
-* 🌱 I will pursuing my Ph.d diploma of 南哪 in future
-* 🌱 Recently, I am on the way of figuring out my main study interest!
-* 🤔 My study interests including 3D Scene Reconstruction, Image Matching and some contents maybe...
-
-小伙，来[这](https://google.com)给咱点个赞
+An idiot from China!
 
 <!--
 **WANGSSSSSSS/WANGSSSSSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
