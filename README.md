@@ -2,9 +2,9 @@
 <p align="center">  $$\color{#00cccc}\textbf{溺于人海}$$ </p> 
 <p align="center">  $$\color{#00cccc}\textbf{死于理想高台}$$ </p> 
 <p align="center"> $$\color{#000000}\textbf{.}$$ </p>
-<p align="center">  $$\color{#009999}\textbf{Dust gave birth. }$$ </p> 
-<p align="center">  $$\color{#009999}\textbf{Crowd took breath.}$$ </p> 
-<p align="center">  $$\color{#009999}\textbf{Ideal led to death.}$$ </p> 
+<p align="center">  $$\color{#009999}\textbf{Dust gave my birth. }$$ </p> 
+<p align="center">  $$\color{#009999}\textbf{Crowd took my breath.}$$ </p> 
+<p align="center">  $$\color{#009999}\textbf{Ideal led to my death.}$$ </p> 
 <!--
 **WANGSSSSSSS/WANGSSSSSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
