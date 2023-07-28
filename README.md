@@ -1,8 +1,7 @@
 
-
-**<center>I am an idiot!</center>**  
-**<center>I am a mere nobody!</center>**   
-**<center>not blame me more...</center>**  
+<center>
+I am an idiot!   
+</center>
 
 
 <!--
