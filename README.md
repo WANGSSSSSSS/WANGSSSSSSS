@@ -1,5 +1,6 @@
 <p align="center">  $$\color{#00cccc}\textbf{无边落木萧萧下，不尽长江滚滚来}$$ </p> 
-
+<p align="center"> $$\color{#009999}\textbf{From woods immense, leaves drop with a whisper.}$$ </p>
+<p align="center"> $$\color{#009999}\textbf{From river immense,  water flows with a luster.}$$ </p> 
 
 
 <!--
