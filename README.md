@@ -1,5 +1,6 @@
 
-**I am just an idiot!**
+**I am an idiot!**
+**I am a mere nobody!**
 **not blame me more...**
 
 <!--
