@@ -1,7 +1,9 @@
 
-**I am an idiot!**  
-**I am a mere nobody!**  
-**not blame me more...**  
+
+**<center>I am an idiot!</center>**  
+**<center>I am a mere nobody!</center>**   
+**<center>not blame me more...</center>**  
+
 
 <!--
 **WANGSSSSSSS/WANGSSSSSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
