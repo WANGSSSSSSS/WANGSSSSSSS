@@ -1,6 +1,6 @@
 <p align="center">  $$\color{#00cccc}\textbf{长风破浪会有时，直挂云帆济沧海}$$ </p> 
 <p align="center"> $$\color{#009999}\textbf{To brave the wind and ride the wave.}$$ </p>
-<p align="center"> $$\color{#009999}\textbf{I’ll fly my cloud beyond the ocean’s grave.}$$ </p> 
+<p align="center"> $$\color{#009999}\textbf{To fly my cloud beyond the ocean’s grave.}$$ </p> 
 
 
 <!--
