@@ -1,8 +1,10 @@
-<p align="center">  $$\color{#00cccc}\textbf{长风破浪会有时，直挂云帆济沧海}$$ </p> 
-<p align="center"> $$\color{#009999}\textbf{To brave the wind and damage the wave.}$$ </p>
-<p align="center"> $$\color{#009999}\textbf{To fly cloud beyond the ocean’s grave.}$$ </p> 
-
-
+<p align="center">  $$\color{#00cccc}\textbf{生于尘埃}$$ </p> 
+<p align="center">  $$\color{#00cccc}\textbf{溺于人海}$$ </p> 
+<p align="center">  $$\color{#00cccc}\textbf{死于理想高台}$$ </p> 
+<p align="center"> . </p>
+<p align="center">  $$\color{#009999}\textbf{Dust gave birth. }$$ </p> 
+<p align="center">  $$\color{#009999}\textbf{Crowd took breath.}$$ </p> 
+<p align="center">  $$\color{#009999}\textbf{Ideal led to death.}$$ </p> 
 <!--
 **WANGSSSSSSS/WANGSSSSSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
