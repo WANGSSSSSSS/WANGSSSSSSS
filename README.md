@@ -1,7 +1,5 @@
+<p align="center"> $$\color{lightblue}\textbf{明月几时有，把酒问青天}$$ </p> 
 
-<center>
-I am an idiot!   
-</center>
 
 
 <!--
