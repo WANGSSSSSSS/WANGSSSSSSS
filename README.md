@@ -1,4 +1,5 @@
-$\color{#f89000}\text{精神病人}$ , $\color{#f89070}\text{精神病学专家}$ 
+<p align="center">$\color{#f89000}\text{精神病人}$ , $\color{#e890ff}\text{精神病学专家}$ </p>
+
 [//]: # ()
 [//]: # (<p align="center">小次郎：飞龙乘云 英姿飒爽 对悲情人世间展开回击的恶魔使徒 小次郎！</p>)
 
